@@ -14,7 +14,9 @@
     "font-awesome": ">=4.1.0",
     "lodash": "~2.4.1",
     "angular-ui-router": "~0.2.10",
-    "moment": "^2.13.0"
+    "moment": "^2.13.0",
+    "angular-ui-calendar": "^1.0.2",
+    "howler.js": "howler#^2.0.3"
   },
   "devDependencies": {
     "angular-mocks": ">=1.2.*",
